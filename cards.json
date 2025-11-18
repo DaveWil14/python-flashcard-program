@@ -1,0 +1,63 @@
+{  "cards": {
+	"card1": { 
+		"E": "Train Station", 
+		"J": "えき"
+	},
+	"card2": { 
+		"E": "Red", 
+		"J": "あか"
+	},
+	"card3": { 
+		"E": "Squid", 
+		"J": "いか"
+	},
+	"card4": { 
+		"E": "Love", 
+		"J": "あい" 
+	},
+	"card5": { 
+		"E": "House", 
+		"J": "いえ" 
+	},
+	"card6": { 
+		"E": "Top", 
+		"J": "うえ" 
+	},
+	"card7": { 
+		"E": "Face", 
+		"J": "かお" 
+	},
+	"card8": { 
+		"E": "Oyster", 
+		"J": "かき" 
+	},
+	"card9": { 
+		"E": "Chrysanthemum", 
+		"J": "きく" 
+	},
+	"card10": { 
+		"E": "Carp", 
+		"J": "こい" 
+	},
+	"card11": { 
+		"E": "Shellfish", 
+		"J": "かい" 
+	},
+	"card12": { 
+		"E": "Pond", 
+		"J": "いけ" 
+	},
+	"card13": { 
+		"E": "Hill", 
+		"J": "おか" 
+	},
+	"card14": { 
+		"E": "autumn", 
+		"J": "あき" 
+	},
+	"card15": { 
+		"E": "blue", 
+		"J": "あお" 
+	}
+       }
+}
