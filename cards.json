@@ -1,63 +1,256 @@
-{  "cards": {
-	"card1": { 
-		"E": "Train Station", 
-		"J": "えき"
-	},
-	"card2": { 
-		"E": "Red", 
-		"J": "あか"
-	},
-	"card3": { 
-		"E": "Squid", 
-		"J": "いか"
-	},
-	"card4": { 
-		"E": "Love", 
-		"J": "あい" 
-	},
-	"card5": { 
-		"E": "House", 
-		"J": "いえ" 
-	},
-	"card6": { 
-		"E": "Top", 
-		"J": "うえ" 
-	},
-	"card7": { 
-		"E": "Face", 
-		"J": "かお" 
-	},
-	"card8": { 
-		"E": "Oyster", 
-		"J": "かき" 
-	},
-	"card9": { 
-		"E": "Chrysanthemum", 
-		"J": "きく" 
-	},
-	"card10": { 
-		"E": "Carp", 
-		"J": "こい" 
-	},
-	"card11": { 
-		"E": "Shellfish", 
-		"J": "かい" 
-	},
-	"card12": { 
-		"E": "Pond", 
-		"J": "いけ" 
-	},
-	"card13": { 
-		"E": "Hill", 
-		"J": "おか" 
-	},
-	"card14": { 
-		"E": "autumn", 
-		"J": "あき" 
-	},
-	"card15": { 
-		"E": "blue", 
-		"J": "あお" 
-	}
-       }
+{
+    "cards": {
+        "card1": {
+            "E": "Train Station",
+            "J": "\u3048\u304d"
+        },
+        "card2": {
+            "E": "Red",
+            "J": "\u3042\u304b"
+        },
+        "card3": {
+            "E": "Squid",
+            "J": "\u3044\u304b"
+        },
+        "card4": {
+            "E": "Love",
+            "J": "\u3042\u3044"
+        },
+        "card5": {
+            "E": "House",
+            "J": "\u3044\u3048"
+        },
+        "card6": {
+            "E": "Top",
+            "J": "\u3046\u3048"
+        },
+        "card7": {
+            "E": "Face",
+            "J": "\u304b\u304a"
+        },
+        "card8": {
+            "E": "Oyster",
+            "J": "\u304b\u304d"
+        },
+        "card9": {
+            "E": "Chrysanthemum",
+            "J": "\u304d\u304f"
+        },
+        "card10": {
+            "E": "Carp",
+            "J": "\u3053\u3044"
+        },
+        "card11": {
+            "E": "Shellfish",
+            "J": "\u304b\u3044"
+        },
+        "card12": {
+            "E": "Pond",
+            "J": "\u3044\u3051"
+        },
+        "card13": {
+            "E": "Hill",
+            "J": "\u304a\u304b"
+        },
+        "card14": {
+            "E": "autumn",
+            "J": "\u3042\u304d"
+        },
+        "card15": {
+            "E": "blue",
+            "J": "\u3042\u304a"
+        },
+        "card16": {
+            "E": "Cow",
+            "J": "\u3046\u3057"
+        },
+        "card17": {
+            "E": "lie",
+            "J": "\u3046\u305d"
+        },
+        "card18": {
+            "E": "umbrella",
+            "J": "\u304b\u3055"
+        },
+        "card19": {
+            "E": "sushi",
+            "J": "\u3059\u3057"
+        },
+        "card20": {
+            "E": "world",
+            "J": "\u305b\u304b\u3044"
+        },
+        "card21": {
+            "E": "octopus",
+            "J": "\u305f\u3053"
+        },
+        "card22": {
+            "E": "subway",
+            "J": "\u3061\u304b\u3066\u3064"
+        },
+        "card23": {
+            "E": "moon",
+            "J": "\u3064\u304d"
+        },
+        "card24": {
+            "E": "soil",
+            "J": "\u3064\u3061"
+        },
+        "card25": {
+            "E": "home",
+            "J": "\u3046\u3061"
+        },
+        "card26": {
+            "E": "hand",
+            "J": "\u3066"
+        },
+        "card27": {
+            "E": "eagle",
+            "J": "\u305f\u304b"
+        },
+        "card28": {
+            "E": "basement",
+            "J": "\u3061\u304b"
+        },
+        "card29": {
+            "E": "iron",
+            "J": "\u3066\u3064"
+        },
+        "card30": {
+            "E": "dog",
+            "J": "\u3044\u306c"
+        },
+        "card31": {
+            "E": "fish",
+            "J": "\u3055\u304b\u306a"
+        },
+        "card32": {
+            "E": "sand",
+            "J": "\u3059\u306a"
+        },
+        "card33": {
+            "E": "summer",
+            "J": "\u306a\u3064"
+        },
+        "card34": {
+            "E": "meat",
+            "J": "\u306b\u304f"
+        },
+        "card35": {
+            "E": "cat",
+            "J": "\u306d\u3053"
+        },
+        "card36": {
+            "E": "flower",
+            "J": "\u306f\u306a"
+        },
+        "card37": {
+            "E": "fire",
+            "J": "\u3072"
+        },
+        "card38": {
+            "E": "ship",
+            "J": "\u3075\u306d"
+        },
+        "card39": {
+            "E": "star",
+            "J": "\u307b\u3057"
+        },
+        "card40": {
+            "E": "chopsticks",
+            "J": "\u306f\u3057"
+        },
+        "card41": {
+            "E": "country",
+            "J": "\u304f\u306b"
+        },
+        "card42": {
+            "E": "pear",
+            "J": "\u306a\u3057"
+        },
+        "card43": {
+            "E": "hole",
+            "J": "\u3042\u306a"
+        },
+        "card44": {
+            "E": "grave",
+            "J": "\u306f\u304b"
+        },
+        "card45": {
+            "E": "foot/leg",
+            "J": "\u3042\u3057"
+        },
+        "card46": {
+            "E": "head",
+            "J": "\u3042\u305f\u307e"
+        },
+        "card47": {
+            "E": "belly",
+            "J": "\u304a\u306a\u304b"
+        },
+        "card48": {
+            "E": "mouth",
+            "J": "\u304f\u3061"
+        },
+        "card49": {
+            "E": "back",
+            "J": "\u305b\u306a\u304b"
+        },
+        "card50": {
+            "E": "nose",
+            "J": "\u306f\u306a (bodypart)"
+        },
+        "card51": {
+            "E": "ear",
+            "J": "\u307f\u307f"
+        },
+        "card52": {
+            "E": "eye",
+            "J": "\u3081"
+        },
+        "card53": {
+            "E": "rain",
+            "J": "\u3042\u3081"
+        },
+        "card54": {
+            "E": "stone",
+            "J": "\u3044\u3057"
+        },
+        "card55": {
+            "E": "rock",
+            "J": "\u3044\u308f"
+        },
+        "card56": {
+            "E": "ocean",
+            "J": "\u3046\u307f"
+        },
+        "card57": {
+            "E": "river",
+            "J": "\u304b\u308f"
+        },
+        "card58": {
+            "E": "tree",
+            "J": "\u304d"
+        },
+        "card59": {
+            "E": "cloud",
+            "J": "\u304f\u3082"
+        },
+        "card60": {
+            "E": "sky",
+            "J": "\u305d\u3089"
+        },
+        "card61": {
+            "E": "valley",
+            "J": "\u305f\u306b"
+        },
+        "card62": {
+            "E": "mountain",
+            "J": "\u3084\u307e"
+        },
+        "card63": {
+            "E": "snow",
+            "J": "\u3086\u304d"
+        }
+    }
 }
